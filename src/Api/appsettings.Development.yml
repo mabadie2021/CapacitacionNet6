@@ -1,0 +1,4 @@
+DataAccessRegistry:
+  ReadOnlyConnection: "Data Source=./localExample.db"
+  TransactionalConnection: "Data Source=./localExample.db"
+  ProviderName: Microsoft.Data.Sqlite

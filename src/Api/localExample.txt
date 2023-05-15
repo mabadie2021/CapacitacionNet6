@@ -1,0 +1,4 @@
+Tabla EntityExample
+	Id			bigint 		incremental
+	Name			varchar(50)		not null
+	Description		varchar(500)	null
