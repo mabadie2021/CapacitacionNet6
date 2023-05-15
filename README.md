@@ -13,3 +13,16 @@ También eliminar todo el ejemplo de codigo generado, todo lo que no sea util pa
 Para iniciar la practica de la capacitación es necesario clonar este repositorio y crear una rama con su nombre de usuario andreani.
 
 Ej: Mariano D. Abadie generaría una rama llamada mabadie.
+
+## Codigo para iniciar
+Inicio del repo:
+```bash
+git clone https://github.com/mabadie2021/CapacitacionNet6.git
+cd CapacitacionNet6
+git pull
+```
+
+y luego hacer:
+```bash
+git checkout -b {userAndreani}
+```
