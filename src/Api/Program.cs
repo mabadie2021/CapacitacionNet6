@@ -2,9 +2,6 @@ using Andreani.ARQ.WebHost.Extension;
 using ExampleApi.Application;
 using ExampleApi.Infrastructure;
 using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Mvc.ApiExplorer;
-using Microsoft.Extensions.DependencyInjection;
-
 
 var builder = WebApplication.CreateBuilder(args);
 

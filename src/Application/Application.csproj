@@ -11,6 +11,7 @@
 	</PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Andreani.ARQ.Core" Version="6.2.2" />
+    <PackageReference Include="Andreani.SolucionesTYD.Tools" Version="1.0.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="FluentValidation" Version="11.2.1" />
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.2.1" />
@@ -23,8 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="UseCase\V1\ExampleOperation\Commands\" />
-    <Folder Include="UseCase\V1\ExampleOperation\Queries\" />
     <Folder Include="UseCase\V2\" />
   </ItemGroup>
 

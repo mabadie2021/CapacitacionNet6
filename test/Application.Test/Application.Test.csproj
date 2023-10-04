@@ -28,9 +28,4 @@
     <ProjectReference Include="..\..\src\Application\Application.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="UseCase\V1\ExampleOperation\Commands\" />
-    <Folder Include="UseCase\V1\ExampleOperation\Queries\" />
-  </ItemGroup>
-
 </Project>
